@@ -42,6 +42,8 @@ It is **_required_** that the specified user has the following permissions
 
 * GRANT VIEW ANY DEFINITION TO <user>
 * GRANT VIEW SERVER STATE TO <user>
+  
+  For Azure SQL Database: GRANT VIEW DATABASE STATE TO <user>
 
 Development
 -----------
