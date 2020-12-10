@@ -1,4 +1,4 @@
-FROM iotrmcninfctreg001.azurecr.cn/common/node:8-alpine
+FROM node:8-alpine
 MAINTAINER Pierre Awaragi (pierre@awaragi.com)
 
 # Create a directory where our app will be placed
